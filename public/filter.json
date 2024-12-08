@@ -1,0 +1,98 @@
+[
+  [
+    {
+      "label": "hklda",
+      "value": "hklda",
+      "color": "#6DCF77",
+      "lowerBound": 10,
+      "upperBound": 30,
+      "hiddenLabel": true
+    },
+    {
+      "label": "woba",
+      "value": "woba",
+      "color": "#4700DE",
+      "lowerBound": -10,
+      "upperBound": 10
+    },
+    {
+      "label": "rpm",
+      "value": "rpm",
+      "color": "#C9A857",
+      "lowerBound": 0,
+      "upperBound": 100
+    }
+  ],
+  [
+    {
+      "label": "spm1",
+      "value": "spm1",
+      "color": "#727CAB",
+      "lowerBound": 0,
+      "upperBound": 80,
+      "hiddenLabel": false
+    },
+    {
+      "label": "mudflowin",
+      "value": "mudflowin",
+      "color": "#C33AC8",
+      "lowerBound": 0,
+      "upperBound": 1000
+    },
+    {
+      "label": "mudflowout",
+      "value": "mudflowout",
+      "color": "#666E40",
+      "lowerBound": 0,
+      "upperBound": 100
+    }
+  ],
+  [
+    {
+      "label": "mudtempin",
+      "value": "mudtempin",
+      "color": "#A84E5A",
+      "lowerBound": 10,
+      "upperBound": 50,
+      "hiddenLabel": false
+    },
+    {
+      "label": "mudtempout",
+      "value": "mudtempout",
+      "color": "#6276AB",
+      "lowerBound": 0,
+      "upperBound": 55
+    },
+    {
+      "label": "-",
+      "value": "-",
+      "color": "#9ca3af",
+      "lowerBound": 0,
+      "upperBound": 0
+    }
+  ],
+  [
+    {
+      "label": "co21",
+      "value": "co21",
+      "color": "#771960",
+      "lowerBound": -5,
+      "upperBound": 5,
+      "hiddenLabel": false
+    },
+    {
+      "label": "-",
+      "value": "-",
+      "color": "#9ca3af",
+      "lowerBound": 0,
+      "upperBound": 0
+    },
+    {
+      "label": "-",
+      "value": "-",
+      "color": "#9ca3af",
+      "lowerBound": 0,
+      "upperBound": 0
+    }
+  ]
+]

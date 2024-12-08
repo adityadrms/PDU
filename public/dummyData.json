@@ -1,0 +1,50 @@
+[
+  {
+    "id": "eyJ1IjoiMSJ9",
+    "companyName": "EMP Malacca Strait S.A.",
+    "wellName": "MSBKH-01",
+    "rigName": "BMA-09",
+    "days": 257,
+    "activity": "Drilling",
+    "lastReceive": "2024-11-10",
+    "bitDepth": 3500,
+    "holeDepth": 3600,
+    "ROP": 15.6
+  },
+  {
+    "id": "eyJ1IjoiMiJ9",
+    "companyName": "Chevron Indonesia",
+    "wellName": "CIB-02",
+    "rigName": "OFS-12",
+    "days": 123,
+    "activity": "Completion",
+    "lastReceive": "2024-11-08",
+    "bitDepth": 4200,
+    "holeDepth": 4300,
+    "ROP": 14.2
+  },
+  {
+    "id": "eyJ1IjoiMyJ9",
+    "companyName": "Pertamina Hulu Rokan",
+    "wellName": "PHR-101",
+    "rigName": "PHR-DrillX",
+    "days": 89,
+    "activity": "Workover",
+    "lastReceive": "2024-11-05",
+    "bitDepth": 3000,
+    "holeDepth": 3100,
+    "ROP": 12.8
+  },
+  {
+    "id": "eyJ1IjoiNCJ9",
+    "companyName": "ExxonMobil Cepu Ltd.",
+    "wellName": "Banyu Urip-05",
+    "rigName": "BU-12",
+    "days": 145,
+    "activity": "Logging",
+    "lastReceive": "2024-11-07",
+    "bitDepth": 2500,
+    "holeDepth": 2600,
+    "ROP": 10.4
+  }
+]
